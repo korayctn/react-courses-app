@@ -1,0 +1,28 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "content": "Muhteşem Angular Kursu",
+      "title": "Angular",
+      "price": 69
+    },
+    {
+      "id": 2,
+      "content": "Muhteşem Svelte Kursu",
+      "title": "Svelte",
+      "price": 23
+    },
+    {
+      "id": 3,
+      "content": "Muhteşem C# Kursu",
+      "title": "C#",
+      "price": 30
+    },
+    {
+      "id": 4,
+      "content": "Muhteşem React Kursu",
+      "title": "React",
+      "price": 40
+    }
+  ]
+}
