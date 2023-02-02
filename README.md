@@ -1,5 +1,5 @@
 
-# Proje Başlığı
+# Course Project
 
 It is a project providing you storing some data and displaying on a card format. 
 
