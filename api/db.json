@@ -2,25 +2,25 @@
   "courses": [
     {
       "id": 1,
-      "content": "Muhteşem Angular Kursu",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro eos facilis atque in harum excepturi quos quas sunt ad commodi expedita reiciendis incidunt, iusto, a vero ea aut. Quo, eius maiores velit nesciunt itaque beatae quos nulla labore commodi quia deserunt rem libero delectus porro optio ipsum temporibus! Veniam, accusantium!",
       "title": "Angular",
       "price": 69
     },
     {
       "id": 2,
-      "content": "Muhteşem Svelte Kursu",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro eos facilis atque in harum excepturi quos quas sunt ad commodi expedita reiciendis incidunt, iusto, a vero ea aut. Quo, eius maiores velit nesciunt itaque beatae quos nulla labore commodi quia deserunt rem libero delectus porro optio ipsum temporibus! Veniam, accusantium!",
       "title": "Svelte",
       "price": 23
     },
     {
       "id": 3,
-      "content": "Muhteşem C# Kursu",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro eos facilis atque in harum excepturi quos quas sunt ad commodi expedita reiciendis incidunt, iusto, a vero ea aut. Quo, eius maiores velit nesciunt itaque beatae quos nulla labore commodi quia deserunt rem libero delectus porro optio ipsum temporibus! Veniam, accusantium!",
       "title": "C#",
       "price": 30
     },
     {
       "id": 4,
-      "content": "Muhteşem React Kursu",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro eos facilis atque in harum excepturi quos quas sunt ad commodi expedita reiciendis incidunt, iusto, a vero ea aut. Quo, eius maiores velit nesciunt itaque beatae quos nulla labore commodi quia deserunt rem libero delectus porro optio ipsum temporibus! Veniam, accusantium!",
       "title": "React",
       "price": 40
     }
